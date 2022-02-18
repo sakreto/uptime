@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Main 1
-    url: ${{ secrets.MAINURL1 }}m
+    url: ${{ secrets.MAINURL1 }}
 
 
 status-website:
