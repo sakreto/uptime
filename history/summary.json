@@ -1,22 +1,22 @@
 [
   {
     "name": "Main 1",
-    "url": "${{ secrets.MAINURL1 }}m",
+    "url": "${{ secrets.MAINURL1 }}",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "main-1",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 1
+      "2022-02-18": 7
     }
   }
 ]
